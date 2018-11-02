@@ -1,11 +1,7 @@
 using Mono.Unix;
 using Mono.Unix.Native;
 using Nancy.Hosting.Self;
-using Nancy;
-using MongoDB.Bson;
 using MongoDB.Bson.Serialization;
-using MongoDB.Bson.Serialization.Attributes;
-using MongoDB.Driver;
 using System;
 
 namespace ViewUsers

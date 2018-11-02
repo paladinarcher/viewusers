@@ -1,6 +1,4 @@
 using Nancy;
-using System;
-
 
 namespace ViewUsers
 {
