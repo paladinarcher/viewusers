@@ -40,4 +40,3 @@
 /home/tmorozco/Projects/viewusers/viewusers/obj/x86/Debug/viewusers.csproj.CopyComplete
 /home/tmorozco/Projects/viewusers/viewusers/obj/x86/Debug/nancyngx.exe
 /home/tmorozco/Projects/viewusers/viewusers/obj/x86/Debug/nancyngx.pdb
-/home/tmorozco/Projects/viewusers/viewusers/obj/x86/Debug/viewusers.csprojAssemblyReference.cache

@@ -8,7 +8,10 @@ namespace ViewUsers
   {
     public ShowUsers()
     {
-      Get["/users"] = parameters => "Hello";
+      Get["/users"] = args =>
+      {
+        return Response.AsJson(new UsersCollection());
+      };
     }
   }
 }

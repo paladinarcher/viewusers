@@ -1,10 +1,25 @@
 ﻿<Properties StartupConfiguration="{E11DE115-C8B0-4748-996A-8A872008D645}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="viewusers/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="viewusers/UsersCollection.cs">
     <Files>
-      <File FileName="viewusers/Program.cs" Line="25" Column="7" />
-      <File FileName="viewusers/ShowUsers.cs" Line="18" Column="1" />
-      <File FileName="viewusers/Users.cs" Line="6" Column="1" />
+      <File FileName="viewusers/Program.cs" Line="30" Column="16" />
+      <File FileName="viewusers/ShowUsers.cs" Line="14" Column="9" />
+      <File FileName="viewusers/Users.cs" Line="18" Column="5" />
+      <File FileName="viewusers/UsersCollection.cs" Line="6" Column="35" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="viewusers" expanded="True">
+            <Node name="viewusers" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="UsersCollection.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.viewusers PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
