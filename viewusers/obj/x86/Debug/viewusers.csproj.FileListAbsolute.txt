@@ -19,8 +19,8 @@
 /home/tmorozco/Projects/nancyngx/nancyngx/obj/x86/Debug/viewusers.csproj.CopyComplete
 /home/tmorozco/Projects/nancyngx/nancyngx/obj/x86/Debug/nancyngx.exe
 /home/tmorozco/Projects/nancyngx/nancyngx/obj/x86/Debug/nancyngx.pdb
-/home/tmorozco/Projects/viewusers/viewusers/bin/Debug/nancyngx.exe
-/home/tmorozco/Projects/viewusers/viewusers/bin/Debug/nancyngx.pdb
+/home/tmorozco/Projects/viewusers/viewusers/bin/Debug/viewusers.exe
+/home/tmorozco/Projects/viewusers/viewusers/bin/Debug/viewusers.pdb
 /home/tmorozco/Projects/viewusers/viewusers/bin/Debug/DnsClient.dll
 /home/tmorozco/Projects/viewusers/viewusers/bin/Debug/MongoDB.Bson.dll
 /home/tmorozco/Projects/viewusers/viewusers/bin/Debug/MongoDB.Driver.Core.dll
@@ -38,5 +38,5 @@
 /home/tmorozco/Projects/viewusers/viewusers/bin/Debug/MongoDB.Driver.xml
 /home/tmorozco/Projects/viewusers/viewusers/obj/x86/Debug/viewusers.csproj.CoreCompileInputs.cache
 /home/tmorozco/Projects/viewusers/viewusers/obj/x86/Debug/viewusers.csproj.CopyComplete
-/home/tmorozco/Projects/viewusers/viewusers/obj/x86/Debug/nancyngx.exe
-/home/tmorozco/Projects/viewusers/viewusers/obj/x86/Debug/nancyngx.pdb
+/home/tmorozco/Projects/viewusers/viewusers/obj/x86/Debug/viewusers.exe
+/home/tmorozco/Projects/viewusers/viewusers/obj/x86/Debug/viewusers.pdb
