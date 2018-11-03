@@ -29,7 +29,6 @@
 /home/tmorozco/Projects/viewusers/viewusers/bin/Debug/Nancy.dll
 /home/tmorozco/Projects/viewusers/viewusers/bin/Debug/Nancy.Hosting.Self.dll
 /home/tmorozco/Projects/viewusers/viewusers/bin/Debug/System.Buffers.dll
-/home/tmorozco/Projects/viewusers/viewusers/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
 /home/tmorozco/Projects/viewusers/viewusers/bin/Debug/Nancy.Hosting.Self.xml
 /home/tmorozco/Projects/viewusers/viewusers/bin/Debug/Nancy.xml
 /home/tmorozco/Projects/viewusers/viewusers/bin/Debug/MongoDB.Bson.xml

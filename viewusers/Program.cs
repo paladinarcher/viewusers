@@ -1,5 +1,3 @@
-using Mono.Unix;
-using Mono.Unix.Native;
 using Nancy.Hosting.Self;
 using MongoDB.Bson.Serialization;
 using System;
@@ -29,23 +27,19 @@ namespace ViewUsers
       host.Start(); // start hosting
 
       // check for mono 
-      if (Type.GetType("Mono.Runtime") != null)
+      if (Type.GetType("Mono.Runtime") != null) 
       {
-        UnixSignal.WaitAny(new[] {
-          new UnixSignal(Signum.SIGINT),
-          new UnixSignal(Signum.SIGTERM),
-          new UnixSignal(Signum.SIGQUIT),
-          new UnixSignal(Signum.SIGHUP),
-        });
+        Console.WriteLine("Mono Installed");
+        Console.ReadLine();
       }
       else 
       {
-        Console.ReadLine();
+
+        Console.WriteLine("Stopping Nancy..");
+        host.Stop();  // stop hosting
       }
 
-    Console.WriteLine("Stopping Nancy..");
-      host.Stop();  // stop hosting
     }
   }
 
-} // end namespace 
+}// end namespace 
