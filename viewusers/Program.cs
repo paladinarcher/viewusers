@@ -30,7 +30,13 @@ namespace ViewUsers
       if (Type.GetType("Mono.Runtime") != null) 
       {
         Console.WriteLine("Mono Installed");
-        Console.ReadLine();
+        Console.WriteLine("To Quit, press 'Q' + 'Enter', or 'Ctrl' + 'C'...");
+        var userInput = Console.ReadLine();
+        if ( userInput == "Q" || userInput == "q" )
+        {
+          Console.WriteLine("Stopping Nancy..");
+          host.Stop();  // stop hosting
+        }
       }
       else 
       {
